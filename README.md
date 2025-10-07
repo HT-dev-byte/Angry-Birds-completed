@@ -1,2 +1,4 @@
 # AngryBirdsStage3
-Stage 3 Angry Birds: Introducing Constraint
+Stage 3 of Angry Birds: Introducing Constraints.
+
+Verification number: 50299765
